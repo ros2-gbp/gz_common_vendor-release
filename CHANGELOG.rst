@@ -1,0 +1,10 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package gz_common_vendor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0.0.2 (2024-04-08)
+------------------
+* Require calling find_package on the underlying package
+* Fix linter (`#1 <https://github.com/gazebo-release/gz_common_vendor/issues/1>`_)
+* Initial import
+* Contributors: Addisu Z. Taddese
