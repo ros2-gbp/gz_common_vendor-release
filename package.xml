@@ -10,7 +10,7 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>
     Vendor package for: gz-common5 5.6.0
 
@@ -24,6 +24,8 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
+  <buildtool_depend>cmake</buildtool_depend>
+  <buildtool_depend>pkg-config</buildtool_depend>
   <build_depend>assimp-dev</build_depend>
   <build_depend>ffmpeg-dev</build_depend>
   <build_depend>libfreeimage-dev</build_depend>
