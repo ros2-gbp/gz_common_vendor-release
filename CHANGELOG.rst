@@ -2,17 +2,27 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.6 (2024-11-14)
+0.2.1 (2024-11-14)
 ------------------
-* Add pkg-config as a buildtool dependency (`#6 <https://github.com/gazebo-release/gz_common_vendor/issues/6>`_)
+* Add pkg-config to buildtool dependencies (`#7 <https://github.com/gazebo-release/gz_common_vendor/issues/7>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.5 (2024-07-15)
+0.2.0 (2024-09-30)
 ------------------
-* Update vendored package version to 5.6.0
+* Bump version to 6.0.0 (`#4 <https://github.com/gazebo-release/gz_common_vendor/issues/4>`_)
+* Apply prerelease suffix (`#3 <https://github.com/gazebo-release/gz_common_vendor/issues/3>`_)
+  * Apply prerelease suffix
+  * Use spdlog_vendor instead of spdlog, drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
 * Contributors: Addisu Z. Taddese
 
-0.0.4 (2024-04-25)
+0.1.1 (2024-05-29)
+------------------
+* Update underlying version to 5.6.0
+* Contributors: Addisu Z. Taddese
+
+0.1.0 (2024-04-23)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
