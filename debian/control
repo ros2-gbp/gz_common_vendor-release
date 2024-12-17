@@ -1,0 +1,12 @@
+Source: ros-rolling-gz-common-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cmake, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, pkg-config, ros-rolling-ament-cmake-copyright <!nocheck>, ros-rolling-ament-cmake-core, ros-rolling-ament-cmake-lint-cmake <!nocheck>, ros-rolling-ament-cmake-test, ros-rolling-ament-cmake-vendor-package, ros-rolling-ament-cmake-xmllint <!nocheck>, ros-rolling-gz-cmake-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-utils-vendor, ros-rolling-spdlog-vendor, uuid-dev, ros-rolling-ros-workspace
+Homepage: https://github.com/gazebosim/gz-common
+Standards-Version: 3.9.2
+
+Package: ros-rolling-gz-common-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, ros-rolling-gz-cmake-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-utils-vendor, ros-rolling-spdlog-vendor, uuid-dev, ros-rolling-ros-workspace
+Description: Vendor package for: gz-common6 6.0.1 Gazebo Common : AV, Graphics, Events, and much more.
