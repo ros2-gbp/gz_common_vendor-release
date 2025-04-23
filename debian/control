@@ -1,0 +1,12 @@
+Source: ros-kilted-gz-common-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cmake, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, pkg-config, ros-kilted-ament-cmake-copyright <!nocheck>, ros-kilted-ament-cmake-core, ros-kilted-ament-cmake-lint-cmake <!nocheck>, ros-kilted-ament-cmake-test, ros-kilted-ament-cmake-vendor-package, ros-kilted-ament-cmake-xmllint <!nocheck>, ros-kilted-gz-cmake-vendor, ros-kilted-gz-math-vendor, ros-kilted-gz-utils-vendor, ros-kilted-spdlog-vendor, uuid-dev, ros-kilted-ros-workspace
+Homepage: https://github.com/gazebosim/gz-common
+Standards-Version: 3.9.2
+
+Package: ros-kilted-gz-common-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, ros-kilted-gz-cmake-vendor, ros-kilted-gz-math-vendor, ros-kilted-gz-utils-vendor, ros-kilted-spdlog-vendor, uuid-dev, ros-kilted-ros-workspace
+Description: Vendor package for: gz-common6 6.0.2 Gazebo Common : AV, Graphics, Events, and much more.
