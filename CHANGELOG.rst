@@ -2,10 +2,16 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.5 (2025-09-04)
+0.3.0 (2025-09-08)
 ------------------
-* Bump version to 6.1.0 (`#13 <https://github.com/gazebo-release/gz_common_vendor/issues/13>`_)
-* Contributors: Ian Chen
+* Jetty support: 7.0.0-pre1 (`#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>`_)
+* Contributors: Steve Peters
+
+0.2.4 (2025-06-27)
+------------------
+* Merge pull request (`#14 <https://github.com/gazebo-release/gz_common_vendor/issues/14>`_ )
+  Bump version to 6.1.0
+* Contributors: Ian Chen, Jose Luis Rivero
 
 0.2.3 (2025-02-19)
 ------------------
