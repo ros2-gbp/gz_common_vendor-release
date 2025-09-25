@@ -1,0 +1,86 @@
+ros-rolling-gz-common-vendor (0.3.1-1bookworm) bookworm; urgency=high
+
+  * Bump version to 7.0.0-pre2 (#16 <https://github.com/gazebo-release/gz_common_vendor/issues/16>)
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 24 Sep 2025 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.3.0-1bookworm) bookworm; urgency=high
+
+  * Jetty support: 7.0.0-pre1 (#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>)
+  * Contributors: Steve Peters
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Mon, 08 Sep 2025 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.2.4-1bookworm) bookworm; urgency=high
+
+  * Merge pull request (#14 <https://github.com/gazebo-release/gz_common_vendor/issues/14> )
+    Bump version to 6.1.0
+  * Contributors: Ian Chen, Jose Luis Rivero
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Fri, 27 Jun 2025 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.2.3-1bookworm) bookworm; urgency=high
+
+  * Bump version to 6.0.2 (#12 <https://github.com/gazebo-release/gz_common_vendor/issues/12>)
+  * Contributors: Carlos Agüero
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 19 Feb 2025 06:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.2.2-1bookworm) bookworm; urgency=high
+
+  * Bump version to 6.0.1 (#10 <https://github.com/gazebo-release/gz_common_vendor/issues/10>)
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Tue, 17 Dec 2024 06:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.2.1-1bookworm) bookworm; urgency=high
+
+  * Add pkg-config to buildtool dependencies (#7 <https://github.com/gazebo-release/gz_common_vendor/issues/7>)
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Thu, 14 Nov 2024 06:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.2.0-1bookworm) bookworm; urgency=high
+
+  * Bump version to 6.0.0 (#4 <https://github.com/gazebo-release/gz_common_vendor/issues/4>)
+  * Apply prerelease suffix (#3 <https://github.com/gazebo-release/gz_common_vendor/issues/3>)
+    * Apply prerelease suffix
+    * Use spdlog_vendor instead of spdlog, drop BUILD_DOCS
+    ---------
+  * Upgrade to Ionic
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Mon, 30 Sep 2024 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.1.1-1bookworm) bookworm; urgency=high
+
+  * Update underlying version to 5.6.0
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 29 May 2024 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Use an alias target for root library
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Tue, 23 Apr 2024 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.0.3-1bookworm) bookworm; urgency=high
+
+  * Add support for the <pkg>::<pkg> and <pkg>::all targets, fix sourcing of dsv files
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 10 Apr 2024 05:00:00 -0000
+
+ros-rolling-gz-common-vendor (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Require calling find_package on the underlying package
+  * Fix linter (#1 <https://github.com/gazebo-release/gz_common_vendor/issues/1>)
+  * Initial import
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Mon, 08 Apr 2024 05:00:00 -0000
+
+
