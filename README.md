@@ -1,3 +1,26 @@
+## gz_common_vendor (kilted) - 0.2.6-1
+
+The packages in the `gz_common_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted gz_common_vendor` on `Thu, 13 Nov 2025 18:28:41 -0000`
+
+The `gz_common_vendor` package was released.
+
+Version of package(s) in repository `gz_common_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_common_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_common_vendor-release.git
+- rosdistro version: `0.2.5-1`
+- old version: `0.2.5-1`
+- new version: `0.2.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_common_vendor (rolling) - 0.3.2-1
 
 The packages in the `gz_common_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling --track rolling gz_common_vendor` on `Wed, 01 Oct 2025 15:39:48 -0000`
