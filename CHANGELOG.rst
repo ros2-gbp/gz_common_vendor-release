@@ -2,32 +2,77 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.9 (2026-02-12)
+0.3.5 (2026-02-26)
 ------------------
-* Bump version to 5.8.0 (`#24 <https://github.com/gazebo-release/gz_common_vendor/issues/24>`_)
+* Bump version to 7.1.1 (`#25 <https://github.com/gazebo-release/gz_common_vendor/issues/25>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.8 (2025-02-07)
+0.3.4 (2026-01-30)
 ------------------
-* Bump version to 5.7.1 (`#11 <https://github.com/gazebo-release/gz_common_vendor/issues/11>`_)
+* Bump version to 7.1.0 (`#22 <https://github.com/gazebo-release/gz_common_vendor/issues/22>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.7 (2024-11-15)
+0.3.3 (2026-01-22)
 ------------------
-* Bump version to 5.7.0 (`#9 <https://github.com/gazebo-release/gz_common_vendor/issues/9>`_)
+* Bump version to 7.0.1 (`#21 <https://github.com/gazebo-release/gz_common_vendor/issues/21>`_)
+* Contributors: Ian Chen
+
+0.3.2 (2025-10-01)
+------------------
+* Merge pull request `#17 <https://github.com/gazebo-release/gz_common_vendor/issues/17>`_ from gazebo-release/releasepy/rolling/7.0.0
+  Bump version to 7.0.0
+* Merge remote-tracking branch 'origin' into releasepy/rolling/7.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#18 <https://github.com/gazebo-release/gz_common_vendor/issues/18>`_)
+* Bump version to 7.0.0
+* Contributors: Addisu Z. Taddese, Jose Luis Rivero, Steve Peters
+
+0.3.1 (2025-09-24)
+------------------
+* Bump version to 7.0.0-pre2 (`#16 <https://github.com/gazebo-release/gz_common_vendor/issues/16>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.6 (2024-11-14)
+0.3.0 (2025-09-08)
 ------------------
-* Add pkg-config as a buildtool dependency (`#6 <https://github.com/gazebo-release/gz_common_vendor/issues/6>`_)
+* Jetty support: 7.0.0-pre1 (`#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>`_)
+* Contributors: Steve Peters
+
+0.2.4 (2025-06-27)
+------------------
+* Merge pull request (`#14 <https://github.com/gazebo-release/gz_common_vendor/issues/14>`_ )
+  Bump version to 6.1.0
+* Contributors: Ian Chen, Jose Luis Rivero
+
+0.2.3 (2025-02-19)
+------------------
+* Bump version to 6.0.2 (`#12 <https://github.com/gazebo-release/gz_common_vendor/issues/12>`_)
+* Contributors: Carlos Agüero
+
+0.2.2 (2024-12-17)
+------------------
+* Bump version to 6.0.1 (`#10 <https://github.com/gazebo-release/gz_common_vendor/issues/10>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.5 (2024-07-15)
+0.2.1 (2024-11-14)
 ------------------
-* Update vendored package version to 5.6.0
+* Add pkg-config to buildtool dependencies (`#7 <https://github.com/gazebo-release/gz_common_vendor/issues/7>`_)
 * Contributors: Addisu Z. Taddese
 
-0.0.4 (2024-04-25)
+0.2.0 (2024-09-30)
+------------------
+* Bump version to 6.0.0 (`#4 <https://github.com/gazebo-release/gz_common_vendor/issues/4>`_)
+* Apply prerelease suffix (`#3 <https://github.com/gazebo-release/gz_common_vendor/issues/3>`_)
+  * Apply prerelease suffix
+  * Use spdlog_vendor instead of spdlog, drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
+* Contributors: Addisu Z. Taddese
+
+0.1.1 (2024-05-29)
+------------------
+* Update underlying version to 5.6.0
+* Contributors: Addisu Z. Taddese
+
+0.1.0 (2024-04-23)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
