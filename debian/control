@@ -1,0 +1,12 @@
+Source: ros-lyrical-gz-common-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cmake, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, pkg-config, ros-lyrical-ament-cmake-copyright <!nocheck>, ros-lyrical-ament-cmake-core, ros-lyrical-ament-cmake-lint-cmake <!nocheck>, ros-lyrical-ament-cmake-test, ros-lyrical-ament-cmake-vendor-package, ros-lyrical-ament-cmake-xmllint <!nocheck>, ros-lyrical-gz-cmake-vendor, ros-lyrical-gz-math-vendor, ros-lyrical-gz-utils-vendor, ros-lyrical-spdlog-vendor, uuid-dev, ros-lyrical-ros-workspace
+Homepage: https://github.com/gazebosim/gz-common
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-gz-common-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libassimp-dev, libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libfreeimage-dev, libgdal-dev, libpostproc-dev, libswresample-dev, libswscale-dev, libtinyxml2-dev, ros-lyrical-gz-cmake-vendor, ros-lyrical-gz-math-vendor, ros-lyrical-gz-utils-vendor, ros-lyrical-spdlog-vendor, uuid-dev, ros-lyrical-ros-workspace
+Description: Vendor package for: gz-common 7.1.1 Gazebo Common : AV, Graphics, Events, and much more.
