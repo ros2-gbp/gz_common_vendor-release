@@ -1,0 +1,66 @@
+ros-jazzy-gz-common-vendor (0.0.10-1bookworm) bookworm; urgency=high
+
+  * Bump version to 5.9.0 (#36 <https://github.com/gazebo-release/gz_common_vendor/issues/36>)
+  * Contributors: Carlos Agüero
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Mon, 24 Aug 2026 22:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.9-1bookworm) bookworm; urgency=high
+
+  * Bump version to 5.8.0 (#24 <https://github.com/gazebo-release/gz_common_vendor/issues/24>)
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Wed, 11 Feb 2026 23:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.8-1bookworm) bookworm; urgency=high
+
+  * Bump version to 5.7.1 (#11 <https://github.com/gazebo-release/gz_common_vendor/issues/11>)
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Thu, 06 Feb 2025 23:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.7-1bookworm) bookworm; urgency=high
+
+  * Bump version to 5.7.0 (#9 <https://github.com/gazebo-release/gz_common_vendor/issues/9>)
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Thu, 14 Nov 2024 23:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.6-1bookworm) bookworm; urgency=high
+
+  * Add pkg-config as a buildtool dependency (#6 <https://github.com/gazebo-release/gz_common_vendor/issues/6>)
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Wed, 13 Nov 2024 23:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.5-1bookworm) bookworm; urgency=high
+
+  * Update vendored package version to 5.6.0
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Sun, 14 Jul 2024 22:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.4-1bookworm) bookworm; urgency=high
+
+  * Use an alias target for root library
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Wed, 24 Apr 2024 22:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.3-1bookworm) bookworm; urgency=high
+
+  * Add support for the <pkg>::<pkg> and <pkg>::all targets, fix sourcing of dsv files
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Tue, 09 Apr 2024 22:00:00 -0000
+
+ros-jazzy-gz-common-vendor (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Require calling find_package on the underlying package
+  * Fix linter (#1 <https://github.com/gazebo-release/gz_common_vendor/issues/1>)
+  * Initial import
+  * Contributors: Addisu Z. Taddese
+
+ -- "Addisu Z. Taddese" <addisuzt@intrinsic.ai>  Sun, 07 Apr 2024 22:00:00 -0000
+
+
