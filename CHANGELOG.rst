@@ -2,36 +2,68 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.10 (2026-09-04)
--------------------
-* Revert "Enable Python bindings (`#37 <https://github.com/gazebo-release/gz_common_vendor/issues/37>`_)" (`#39 <https://github.com/gazebo-release/gz_common_vendor/issues/39>`_)
-  This reverts commit 3eb5a453933bfa1c247ca458ba343d9ed21c5990.
+0.4.4 (2026-10-06)
+------------------
+* Bump version to 8.0.0~pre2 (`#40 <https://github.com/gazebo-release/gz_common_vendor/issues/40>`_)
 * Contributors: Addisu Z. Taddese
 
-0.2.9 (2026-08-31)
+0.4.3 (2026-08-25)
 ------------------
-* Enable Python bindings (`#37 <https://github.com/gazebo-release/gz_common_vendor/issues/37>`_)
+* Upgrade to Rotary prerelease (`#32 <https://github.com/gazebo-release/gz_common_vendor/issues/32>`_)
 * Contributors: Addisu Z. Taddese
 
-0.2.8 (2026-08-25)
+0.4.2 (2026-08-18)
 ------------------
-* Bump version to 6.4.0 (`#35 <https://github.com/gazebo-release/gz_common_vendor/issues/35>`_)
-* Contributors: Carlos Agüero
+* Bump version to 7.3.1 (`#30 <https://github.com/gazebo-release/gz_common_vendor/issues/30>`_)
+* Contributors: Arjo Chakravarty
 
-0.2.7 (2026-02-12)
+0.4.1 (2026-07-21)
 ------------------
-* Bump version to 6.3.0 (`#23 <https://github.com/gazebo-release/gz_common_vendor/issues/23>`_)
+* Bump version to 7.3.0 (`#28 <https://github.com/gazebo-release/gz_common_vendor/issues/28>`_)
 * Contributors: Addisu Z. Taddese
 
-0.2.6 (2025-11-13)
+0.4.0 (2026-05-14)
 ------------------
-* Bump version to 6.2.1 (`#20 <https://github.com/gazebo-release/gz_common_vendor/issues/20>`_)
+
+0.3.5 (2026-02-26)
+------------------
+* Bump version to 7.1.1 (`#25 <https://github.com/gazebo-release/gz_common_vendor/issues/25>`_)
+* Contributors: Addisu Z. Taddese
+
+0.3.4 (2026-01-30)
+------------------
+* Bump version to 7.1.0 (`#22 <https://github.com/gazebo-release/gz_common_vendor/issues/22>`_)
+* Contributors: Addisu Z. Taddese
+
+0.3.3 (2026-01-22)
+------------------
+* Bump version to 7.0.1 (`#21 <https://github.com/gazebo-release/gz_common_vendor/issues/21>`_)
 * Contributors: Ian Chen
 
-0.2.5 (2025-09-04)
+0.3.2 (2025-10-01)
 ------------------
-* Bump version to 6.1.0 (`#13 <https://github.com/gazebo-release/gz_common_vendor/issues/13>`_)
-* Contributors: Ian Chen
+* Merge pull request `#17 <https://github.com/gazebo-release/gz_common_vendor/issues/17>`_ from gazebo-release/releasepy/rolling/7.0.0
+  Bump version to 7.0.0
+* Merge remote-tracking branch 'origin' into releasepy/rolling/7.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#18 <https://github.com/gazebo-release/gz_common_vendor/issues/18>`_)
+* Bump version to 7.0.0
+* Contributors: Addisu Z. Taddese, Jose Luis Rivero, Steve Peters
+
+0.3.1 (2025-09-24)
+------------------
+* Bump version to 7.0.0-pre2 (`#16 <https://github.com/gazebo-release/gz_common_vendor/issues/16>`_)
+* Contributors: Addisu Z. Taddese
+
+0.3.0 (2025-09-08)
+------------------
+* Jetty support: 7.0.0-pre1 (`#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>`_)
+* Contributors: Steve Peters
+
+0.2.4 (2025-06-27)
+------------------
+* Merge pull request (`#14 <https://github.com/gazebo-release/gz_common_vendor/issues/14>`_ )
+  Bump version to 6.1.0
+* Contributors: Ian Chen, Jose Luis Rivero
 
 0.2.3 (2025-02-19)
 ------------------
